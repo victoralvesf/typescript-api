@@ -1,0 +1,42 @@
+[
+  {
+    "swellDirection": 181.69,
+    "swellHeight": 0.18,
+    "swellPeriod": 3.59,
+    "time": "2022-07-25T00:00:00+00:00",
+    "waveDirection": 188.85,
+    "waveHeight": 0.29,
+    "windDirection": 240.29,
+    "windSpeed": 2.74
+  },
+  {
+    "swellDirection": 179.35,
+    "swellHeight": 0.14,
+    "swellPeriod": 4.09,
+    "time": "2022-07-25T01:00:00+00:00",
+    "waveDirection": 190.21,
+    "waveHeight": 0.31,
+    "windDirection": 229.68,
+    "windSpeed": 2.96
+  },
+  {
+    "swellDirection": 177.01,
+    "swellHeight": 0.1,
+    "swellPeriod": 4.6,
+    "time": "2022-07-25T02:00:00+00:00",
+    "waveDirection": 191.57,
+    "waveHeight": 0.32,
+    "windDirection": 219.08,
+    "windSpeed": 3.18
+  },
+  {
+    "swellDirection": 174.67,
+    "swellHeight": 0.06,
+    "swellPeriod": 5.1,
+    "time": "2022-07-25T03:00:00+00:00",
+    "waveDirection": 192.93,
+    "waveHeight": 0.34,
+    "windDirection": 208.47,
+    "windSpeed": 3.4
+  }
+]
